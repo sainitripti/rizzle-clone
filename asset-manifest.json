@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rizzle-clone/static/css/main.62f006b6.chunk.css",
+    "main.js": "/rizzle-clone/static/js/main.0b24d878.chunk.js",
+    "main.js.map": "/rizzle-clone/static/js/main.0b24d878.chunk.js.map",
+    "runtime-main.js": "/rizzle-clone/static/js/runtime-main.1284d53e.js",
+    "runtime-main.js.map": "/rizzle-clone/static/js/runtime-main.1284d53e.js.map",
+    "static/js/2.7ec36c18.chunk.js": "/rizzle-clone/static/js/2.7ec36c18.chunk.js",
+    "static/js/2.7ec36c18.chunk.js.map": "/rizzle-clone/static/js/2.7ec36c18.chunk.js.map",
+    "index.html": "/rizzle-clone/index.html",
+    "precache-manifest.8136e6fbdba5ab08a6bcbf9dc07c351c.js": "/rizzle-clone/precache-manifest.8136e6fbdba5ab08a6bcbf9dc07c351c.js",
+    "service-worker.js": "/rizzle-clone/service-worker.js",
+    "static/css/main.62f006b6.chunk.css.map": "/rizzle-clone/static/css/main.62f006b6.chunk.css.map",
+    "static/js/2.7ec36c18.chunk.js.LICENSE.txt": "/rizzle-clone/static/js/2.7ec36c18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1284d53e.js",
+    "static/js/2.7ec36c18.chunk.js",
+    "static/css/main.62f006b6.chunk.css",
+    "static/js/main.0b24d878.chunk.js"
+  ]
+}
